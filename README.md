@@ -1,5 +1,4 @@
-# Lea Frost -
-# CSCE 350 Final Project
+# Lea Frost - CSCE 350 Final Project
 
 ## Instructions for compilation:
 
