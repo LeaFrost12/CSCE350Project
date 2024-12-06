@@ -14,5 +14,7 @@ The output file can have any name as it will be created upon running. Ensure tha
 
 ### File Structure
 The src directory contains all source code.
+
 The input directory contains the generate input files.
+
 The output directory contains the sorted output files, the execution time file, and average execution time file.
