@@ -19,7 +19,6 @@ clean:
 	rm -f $(FILE_TARGET)
 	rm -f output/*
 	rm -f input/*
-	rm -f 
 
 #for generating input files, run make generate_files
 $(FILE_TARGET): $(FILE_SOURCES)
